@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="center">
+    <td width="50%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <p>
         I'm a <b>Computer Science Engineering Student</b> passionate about building software with solid fundamentals. I focus on Java development, DSA, and I'm actively exploring the world of Cloud and AI.
@@ -32,9 +32,9 @@
       <br/>
       👉 <i>Check out my pinned repositories below!</i>
     </td>
-    <td width="40%">
+    <td width="50%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/main/assets/gif/coder.gif" width="100%" alt="coding animation"/>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
       </div>
     </td>
   </tr>
@@ -79,15 +79,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-balaji&theme=radical&hide_border=true" alt="streak graph" />
 </div>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrithik-balaji&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
