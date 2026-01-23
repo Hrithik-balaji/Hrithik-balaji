@@ -14,28 +14,27 @@
   </a>
 </div>
 
-
 ---
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="center">
       <h2>👨‍💻 About Me</h2>
       <p>
         I'm a <b>Computer Science Engineering Student</b> passionate about building software with solid fundamentals. I focus on Java development, DSA, and I'm actively exploring the world of Cloud and AI.
       </p>
        <ul>
-        <li>🔭 I’m currently working on <b>Java Development & Image Processing Projects</b></li>
-        <li>🌱 I’m currently learning <b>Azure Fundamentals & Clean Code Architecture</b></li>
-        <li>🎯 Goal: <b>Microsoft Student Ambassador Applicant</b></li>
-        <li>🧩 Interests: Solving complex problems with simple logic.</li>
+        <li>🔭 I’m currently working on <b>Java Development</b></li>
+        <li>🌱 I’m currently learning <b>Azure Fundamentals</b></li>
+        <li>🎯 Goal: <b>Microsoft Student Ambassador</b></li>
+        <li>🧩 Interests: Solving complex problems.</li>
       </ul>
       <br/>
-      👉 <i>Check out my pinned repositories below to see my best work!</i>
+      👉 <i>Check out my pinned repositories below!</i>
     </td>
-    <td width="40%">
+    <td width="45%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coder gif"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212284110-f4d01fe0-d928-4995-8692-e41e9f213b6f.gif" width="100%" alt="3D coding setup"/>
       </div>
     </td>
   </tr>
