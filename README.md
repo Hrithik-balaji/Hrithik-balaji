@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="center">
+    <td width="60%" valign="center">
       <h2>👨‍💻 About Me</h2>
       <p>
         I'm a <b>Computer Science Engineering Student</b> passionate about building software with solid fundamentals. I focus on Java development, DSA, and I'm actively exploring the world of Cloud and AI.
@@ -32,9 +32,9 @@
       <br/>
       👉 <i>Check out my pinned repositories below!</i>
     </td>
-    <td width="45%">
+    <td width="40%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284110-f4d01fe0-d928-4995-8692-e41e9f213b6f.gif" width="100%" alt="3D coding setup"/>
+        <img src="https://i.pinimg.com/originals/f3/1c/94/f31c94d0c102a0f8bf679e000438139d.gif" width="100%" alt="Pixel Art gif"/>
       </div>
     </td>
   </tr>
