@@ -1,87 +1,80 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Hrithik!+%F0%9F%91%8B;Computer+Science+Student;Java+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Hrithik 👋</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/in/Hrithik-balaji">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:hrithikbalaji115@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/Hrithik-balaji">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
+<p align="center">
+  🎓 Computer Science Engineering Student <br>
+  💻 Java Developer | DSA Learner <br>
+  ☁️ Exploring Cloud, Azure & Microsoft Technologies <br>
+  🚀 Microsoft Student Ambassador Applicant
+</p>
 
----
+<hr>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        I'm a <b>Computer Science Engineering Student</b> passionate about building software with solid fundamentals. I focus on Java development, DSA, and I'm actively exploring the world of Cloud and AI.
-      </p>
-       <ul>
-        <li>🔭 I’m currently working on <b>Java Development</b></li>
-        <li>🌱 I’m currently learning <b>Azure Fundamentals</b></li>
-        <li>🎯 Goal: <b>Microsoft Student Ambassador</b></li>
-        <li>🧩 Interests: Solving complex problems.</li>
-      </ul>
-      <br/>
-      👉 <i>Check out my pinned repositories below!</i>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<h2>👨‍💻 About Me</h2>
+<p>
+I am a third-year Computer Science Engineering student with a strong interest in
+software development, problem solving, and cloud technologies.
+I enjoy learning by building projects and documenting my journey on GitHub.
+</p>
 
----
+<p>
+Currently, I am focusing on:
+</p>
+<ul>
+  <li>Improving Data Structures & Algorithms</li>
+  <li>Building Java-based projects</li>
+  <li>Learning Microsoft Azure and cloud fundamentals</li>
+  <li>Participating in developer communities</li>
+</ul>
 
-## 🛠️ Tech Stack & Tools
+<hr>
 
-<div align="center">
+<h2>🛠️ Skills</h2>
+<ul>
+  <li><b>Languages:</b> Java, Python (basic), Bash, HTML, PHP (basic)</li>
+  <li><b>Core Concepts:</b> Data Structures & Algorithms, OOP</li>
+  <li><b>Tools:</b> Git, GitHub</li>
+  <li><b>Currently Learning:</b> Azure, Cloud Computing, Microsoft Learn</li>
+</ul>
 
-### 💻 Core & Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<hr>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik-balaji&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-balaji&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
+<h2>📂 Projects</h2>
+<ul>
+  <li>
+    <b>Digital Twin – Robotic Arm Predictive Maintenance</b><br>
+    Student-level project exploring digital twin concepts and basic predictive maintenance ideas.
+  </li>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-balaji&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+  <li>
+    <b>Java Practice Projects</b><br>
+    A collection of small Java programs focused on strengthening core concepts and problem solving.
+  </li>
+  <br>
+  <li>
+    <b>Web Basics</b><br>
+    Mini projects using HTML and PHP to understand basic web development.
+  </li>
+</ul>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=Hrithik-balaji&icon=2&color=11" alt="visitor count"/>
-</div>
+<hr>
+
+<h2>🌱 Current Focus</h2>
+<ul>
+  <li>Microsoft Learn – Azure Fundamentals</li>
+  <li>Writing clean, well-documented code</li>
+  <li>Sharing knowledge and learning in communities</li>
+</ul>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+<ul>
+  <li>GitHub: <a href="https://github.com/Hrithik-balaji">github.com/Hrithik-balaji</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/">LinkedIn Profile</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <i>“Learning consistently and building step by step.”</i>
+</p>
