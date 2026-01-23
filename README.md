@@ -34,7 +34,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://i.pinimg.com/originals/f3/1c/94/f31c94d0c102a0f8bf679e000438139d.gif" width="100%" alt="Pixel Art gif"/>
+        <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/master/assets/coding.gif" width="100%" alt="coding animation"/>
       </div>
     </td>
   </tr>
